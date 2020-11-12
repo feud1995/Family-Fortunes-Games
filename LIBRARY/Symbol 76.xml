@@ -1,0 +1,84 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 76" lastModified="1605105638">
+  <timeline>
+    <DOMTimeline name="Symbol 76">
+      <layers>
+                    <DOMLayer name="Layer 1" color="#4cfcaf" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" duration="30" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 75" centerPoint3DX="13.6" centerPoint3DY="6.85">
+  <matrix>
+    <Matrix tx="0.0" ty="0.0"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="30" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 75" centerPoint3DX="13.6" centerPoint3DY="8.7">
+  <matrix>
+    <Matrix tx="0.0" ty="1.85" a="1.0" d="0.7274932861328125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="31" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 75" centerPoint3DX="13.6" centerPoint3DY="10.6">
+  <matrix>
+    <Matrix tx="0.0" ty="3.75" a="1.0" d="0.454986572265625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="32" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 75" centerPoint3DX="13.6" centerPoint3DY="12.45">
+  <matrix>
+    <Matrix tx="0.0" ty="5.6" a="1.0" d="0.1824798583984375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="33" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 75" centerPoint3DX="13.6" centerPoint3DY="9.65">
+  <matrix>
+    <Matrix tx="0.0" ty="2.8" a="1.0" d="0.5912322998046875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="34" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 75" centerPoint3DX="13.6" centerPoint3DY="6.85">
+  <matrix>
+    <Matrix tx="0.0" ty="0.0"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

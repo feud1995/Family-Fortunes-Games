@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 90" lastModified="1605105638">
+  <timeline>
+    <DOMTimeline name="Symbol 90">
+      <layers>
+                    <DOMLayer name="Layer 1" color="#c344f4" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+  <FillStyle index="1">
+    <SolidColor color="#0f0f0f"/>
+  </FillStyle>
+</fills>
+                                             <strokes/>
+  <edges>
+    <Edge fillStyle1="1" edges="!0 0! 2320 1000| 0 1000| 0 0| 2320 0| 2320 1000"/>
+  </edges>
+</DOMShape>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

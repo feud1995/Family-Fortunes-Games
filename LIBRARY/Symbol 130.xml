@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 130" lastModified="1605105638" linkageClassName="ffMain_fla.topAnswerArrows_23" linkageExportForAS="true">
+  <timeline>
+    <DOMTimeline name="Symbol 130">
+      <layers>
+                    <DOMLayer name="Layer 1" color="#cfaeac" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" duration="14" keyMode="9728">
+  <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+  <FillStyle index="1">
+    <SolidColor color="#0f0f0f"/>
+  </FillStyle>
+</fills>
+                                             <strokes>
+  <StrokeStyle index="1">
+    <SolidStroke scaleMode="normal" weight="3.0">
+      <fill>
+        <SolidColor color="#ffcc00"/>
+      </fill>
+    </SolidStroke>
+  </StrokeStyle>
+</strokes>
+  <edges>
+    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!0 0! 693 272| 884 81| 1083 280"/>
+    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!1083 280! 884 587| 884 81"/>
+    <Edge fillStyle0="0" fillStyle1="1" strokeStyle="0" edges="!884 81! 1488 788| 0 788| 0 0| 1488 0| 1488 788"/>
+    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!1488 788! 420 583| 420 77| 229 268"/>
+    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!229 268! 420 77| 619 276"/>
+  </edges>
+</DOMShape>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

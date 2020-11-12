@@ -1,0 +1,54 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 137" lastModified="1605105638">
+  <timeline>
+    <DOMTimeline name="Symbol 137">
+      <layers>
+                    <DOMLayer name="Layer 1" color="#f62b5f">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements>
+                                        <DOMDynamicText fontRenderingMode="standard" name="qText" width="957.95" height="59.05" isSelectable="false">
+  <matrix>
+    <Matrix tx="460.25" ty="84.95"/>
+  </matrix>
+  <textRuns>
+    <DOMTextRun>
+      <characters>Foods you may eat for tea at a birthday party</characters>
+      <textAttrs>
+        <DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="0.0" lineSpacing="2.0" rightMargin="0.0" size="30.0" bitmapSize="600" face="LCDDot Regular" fillColor="#ffff00" alpha="1.0"/>
+      </textAttrs>
+    </DOMTextRun>
+  </textRuns>
+</DOMDynamicText>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#c68fcc" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+  <FillStyle index="1">
+    <LinearGradient>
+      <matrix>
+        <Matrix tx="500.0" ty="65.45" a="0.0" d="0.0" b="-0.0689697265625" c="0.6103515625"/>
+      </matrix>
+      <GradientEntry color="#000000" alpha="1.0" ratio="0.31764707"/>
+      <GradientEntry color="#000000" alpha="0.0" ratio="1.0"/>
+    </LinearGradient>
+  </FillStyle>
+</fills>
+                                             <strokes/>
+  <edges>
+    <Edge fillStyle1="1" edges="!0 0! 20000 2600| 0 2600| 0 0| 20000 0| 20000 2600"/>
+  </edges>
+</DOMShape>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

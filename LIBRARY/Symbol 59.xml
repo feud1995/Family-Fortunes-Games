@@ -1,0 +1,60 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 59" lastModified="1605105638">
+  <timeline>
+    <DOMTimeline name="Symbol 59">
+      <layers>
+                    <DOMLayer name="Layer 1" color="#f5d8ab">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements>
+                                        <DOMStaticText left="0" fontRenderingMode="standard" width="5563" height="1729" autoExpand="true" isSelectable="false">
+  <matrix>
+    <Matrix tx="2.0" ty="193.8"/>
+  </matrix>
+  <textRuns>
+    <DOMTextRun>
+      <characters>MONEY</characters>
+      <textAttrs>
+        <DOMTextAttrs aliasText="false" rotation="true" size="120.0" bitmapSize="2400" letterSpacing="2.05" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#0fb1ff" face="Rockwell Extra Bold"/>
+      </textAttrs>
+    </DOMTextRun>
+  </textRuns>
+                                             <filters>
+  <GlowFilter blurX="5" blurY="5" color="#000000" quality="3" strength="2.5"/>
+  <BevelFilter blurX="5" blurY="5" quality="1" angle="72.99931332066876" distance="2.0" highlightColor="#ffffff" shadowColor="#000000" strength="1"/>
+  <DropShadowFilter angle="63.99963750420652" blurX="15" blurY="15" color="#000000" distance="19" quality="3" strength="0.5"/>
+</filters>
+</DOMStaticText>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#70a2f5" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements>
+                                        <DOMStaticText left="0" fontRenderingMode="standard" width="5829" height="3206" autoExpand="true" isSelectable="false">
+  <matrix>
+    <Matrix tx="19.05" ty="2.0"/>
+  </matrix>
+  <textRuns>
+    <DOMTextRun>
+      <characters>BIG</characters>
+      <textAttrs>
+        <DOMTextAttrs aliasText="false" rotation="true" size="225.0" bitmapSize="4500" letterSpacing="12.05" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#ff4fca" face="Rockwell Extra Bold"/>
+      </textAttrs>
+    </DOMTextRun>
+  </textRuns>
+                                             <filters>
+  <GlowFilter blurX="5" blurY="5" color="#000000" quality="3" strength="2.5"/>
+  <BevelFilter blurX="5" blurY="5" quality="1" angle="72.99931332066876" distance="2.0" highlightColor="#ffffff" shadowColor="#000000" strength="1"/>
+  <DropShadowFilter angle="63.99963750420652" blurX="15" blurY="15" color="#000000" distance="19" quality="3" strength="0.5"/>
+</filters>
+</DOMStaticText>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

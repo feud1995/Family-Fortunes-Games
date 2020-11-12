@@ -1,0 +1,723 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 131" lastModified="1605105638" linkageClassName="ffMain_fla.bMoneyPane_22" linkageExportForAS="true">
+  <timeline>
+    <DOMTimeline name="Symbol 131">
+      <layers>
+                    <DOMLayer name="Layer 1" color="#5ac970">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 130" name="tArrow10" centerPoint3DX="519.15" centerPoint3DY="318.95">
+  <matrix>
+    <Matrix tx="481.95" ty="299.25"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#4467ee">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 130" name="tArrow9" centerPoint3DX="519.1" centerPoint3DY="255.3">
+  <matrix>
+    <Matrix tx="481.9" ty="235.6"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#489be4">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 130" name="tArrow8" centerPoint3DX="519.1" centerPoint3DY="190.85">
+  <matrix>
+    <Matrix tx="481.9" ty="171.15"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 4" color="#35cde9">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 130" name="tArrow7" centerPoint3DX="519.1" centerPoint3DY="127.0">
+  <matrix>
+    <Matrix tx="481.9" ty="107.3"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 5" color="#f391e3">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 130" name="tArrow6" centerPoint3DX="519.1" centerPoint3DY="62.9">
+  <matrix>
+    <Matrix tx="481.9" ty="43.2"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 6" color="#c605e2">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 130" name="tArrow5" centerPoint3DX="424.85" centerPoint3DY="318.95">
+  <matrix>
+    <Matrix tx="387.65" ty="299.25"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 7" color="#fcd3f0">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 130" name="tArrow4" centerPoint3DX="423.75" centerPoint3DY="255.3">
+  <matrix>
+    <Matrix tx="386.55" ty="235.6"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 8" color="#a069b6">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 130" name="tArrow3" centerPoint3DX="423.75" centerPoint3DY="190.85">
+  <matrix>
+    <Matrix tx="386.55" ty="171.15"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 9" color="#7ed976">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 130" name="tArrow2" centerPoint3DX="423.75" centerPoint3DY="127.0">
+  <matrix>
+    <Matrix tx="386.55" ty="107.3"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 10" color="#adcd68">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 130" name="tArrow1" centerPoint3DX="423.75" centerPoint3DY="62.9">
+  <matrix>
+    <Matrix tx="386.55" ty="43.2"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 11" color="#a3dc7a">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMInputText fontRenderingMode="standard" name="score10" width="64.95" height="35.6" lineType="multiline">
+  <matrix>
+    <Matrix tx="484.35" ty="300.8"/>
+  </matrix>
+  <textRuns>
+    <DOMTextRun>
+      <characters>99</characters>
+      <textAttrs>
+        <DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="0.0" lineSpacing="2.0" rightMargin="0.0" size="32.0" bitmapSize="640" face="LCDDot Regular" fillColor="#ffcc00" alpha="1.0"/>
+      </textAttrs>
+    </DOMTextRun>
+  </textRuns>
+</DOMInputText>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 12" color="#cb88cb">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMInputText fontRenderingMode="standard" name="score9" width="64.95" height="35.6" lineType="multiline">
+  <matrix>
+    <Matrix tx="484.9" ty="237.0"/>
+  </matrix>
+  <textRuns>
+    <DOMTextRun>
+      <characters>99</characters>
+      <textAttrs>
+        <DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="0.0" lineSpacing="2.0" rightMargin="0.0" size="32.0" bitmapSize="640" face="LCDDot Regular" fillColor="#ffcc00" alpha="1.0"/>
+      </textAttrs>
+    </DOMTextRun>
+  </textRuns>
+</DOMInputText>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 13" color="#cbcf26">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMInputText fontRenderingMode="standard" name="score8" width="64.95" height="35.6" lineType="multiline">
+  <matrix>
+    <Matrix tx="485.45" ty="173.0"/>
+  </matrix>
+  <textRuns>
+    <DOMTextRun>
+      <characters>99</characters>
+      <textAttrs>
+        <DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="0.0" lineSpacing="2.0" rightMargin="0.0" size="32.0" bitmapSize="640" face="LCDDot Regular" fillColor="#ffcc00" alpha="1.0"/>
+      </textAttrs>
+    </DOMTextRun>
+  </textRuns>
+</DOMInputText>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 14" color="#6540e7">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMInputText fontRenderingMode="standard" name="score7" width="64.95" height="35.6" lineType="multiline">
+  <matrix>
+    <Matrix tx="486.0" ty="109.2"/>
+  </matrix>
+  <textRuns>
+    <DOMTextRun>
+      <characters>99</characters>
+      <textAttrs>
+        <DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="0.0" lineSpacing="2.0" rightMargin="0.0" size="32.0" bitmapSize="640" face="LCDDot Regular" fillColor="#ffcc00" alpha="1.0"/>
+      </textAttrs>
+    </DOMTextRun>
+  </textRuns>
+</DOMInputText>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 15" color="#d6c3f3">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMInputText fontRenderingMode="standard" name="score6" width="64.95" height="35.6" lineType="multiline">
+  <matrix>
+    <Matrix tx="486.55" ty="45.2"/>
+  </matrix>
+  <textRuns>
+    <DOMTextRun>
+      <characters>99</characters>
+      <textAttrs>
+        <DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="0.0" lineSpacing="2.0" rightMargin="0.0" size="32.0" bitmapSize="640" face="LCDDot Regular" fillColor="#ffcc00" alpha="1.0"/>
+      </textAttrs>
+    </DOMTextRun>
+  </textRuns>
+</DOMInputText>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 16" color="#f96bf3">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMInputText fontRenderingMode="standard" name="score5" width="64.95" height="35.6" lineType="multiline">
+  <matrix>
+    <Matrix tx="386.35" ty="300.8"/>
+  </matrix>
+  <textRuns>
+    <DOMTextRun>
+      <characters>99</characters>
+      <textAttrs>
+        <DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="0.0" lineSpacing="2.0" rightMargin="0.0" size="32.0" bitmapSize="640" face="LCDDot Regular" fillColor="#ffcc00" alpha="1.0"/>
+      </textAttrs>
+    </DOMTextRun>
+  </textRuns>
+</DOMInputText>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 17" color="#76c3af">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMInputText fontRenderingMode="standard" name="score4" width="64.95" height="35.6" lineType="multiline">
+  <matrix>
+    <Matrix tx="386.9" ty="237.0"/>
+  </matrix>
+  <textRuns>
+    <DOMTextRun>
+      <characters>99</characters>
+      <textAttrs>
+        <DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="0.0" lineSpacing="2.0" rightMargin="0.0" size="32.0" bitmapSize="640" face="LCDDot Regular" fillColor="#ffcc00" alpha="1.0"/>
+      </textAttrs>
+    </DOMTextRun>
+  </textRuns>
+</DOMInputText>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 18" color="#e0368c">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMInputText fontRenderingMode="standard" name="score3" width="64.95" height="35.6" lineType="multiline">
+  <matrix>
+    <Matrix tx="387.45" ty="173.0"/>
+  </matrix>
+  <textRuns>
+    <DOMTextRun>
+      <characters>99</characters>
+      <textAttrs>
+        <DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="0.0" lineSpacing="2.0" rightMargin="0.0" size="32.0" bitmapSize="640" face="LCDDot Regular" fillColor="#ffcc00" alpha="1.0"/>
+      </textAttrs>
+    </DOMTextRun>
+  </textRuns>
+</DOMInputText>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 19" color="#cad123">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMInputText fontRenderingMode="standard" name="score2" width="64.95" height="35.6" lineType="multiline">
+  <matrix>
+    <Matrix tx="388.0" ty="109.2"/>
+  </matrix>
+  <textRuns>
+    <DOMTextRun>
+      <characters>99</characters>
+      <textAttrs>
+        <DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="0.0" lineSpacing="2.0" rightMargin="0.0" size="32.0" bitmapSize="640" face="LCDDot Regular" fillColor="#ffcc00" alpha="1.0"/>
+      </textAttrs>
+    </DOMTextRun>
+  </textRuns>
+</DOMInputText>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 20" color="#65ecd5">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMInputText fontRenderingMode="standard" name="score1" width="64.95" height="35.6" lineType="multiline">
+  <matrix>
+    <Matrix tx="388.55" ty="45.2"/>
+  </matrix>
+  <textRuns>
+    <DOMTextRun>
+      <characters>99</characters>
+      <textAttrs>
+        <DOMTextAttrs alignment="center" rotation="true" indent="0.0" leftMargin="0.0" lineSpacing="2.0" rightMargin="0.0" size="32.0" bitmapSize="640" face="LCDDot Regular" fillColor="#ffcc00" alpha="1.0"/>
+      </textAttrs>
+    </DOMTextRun>
+  </textRuns>
+</DOMInputText>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 21" color="#eea0f0">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMInputText fontRenderingMode="standard" name="input10" width="450.95" height="35.6" maxCharacters="16">
+  <matrix>
+    <Matrix tx="484.05" ty="301.15"/>
+  </matrix>
+  <textRuns>
+    <DOMTextRun>
+      <characters/>
+      <textAttrs>
+        <DOMTextAttrs alignment="right" rotation="true" indent="0.0" leftMargin="0.0" lineSpacing="2.0" rightMargin="0.0" size="32.0" bitmapSize="640" face="LCDDot Regular" fillColor="#ffcc00" alpha="1.0"/>
+      </textAttrs>
+    </DOMTextRun>
+  </textRuns>
+</DOMInputText>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 22" color="#e5953f">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMInputText fontRenderingMode="standard" name="input9" width="450.95" height="35.6" maxCharacters="16">
+  <matrix>
+    <Matrix tx="484.05" ty="237.15"/>
+  </matrix>
+  <textRuns>
+    <DOMTextRun>
+      <characters/>
+      <textAttrs>
+        <DOMTextAttrs alignment="right" rotation="true" indent="0.0" leftMargin="0.0" lineSpacing="2.0" rightMargin="0.0" size="32.0" bitmapSize="640" face="LCDDot Regular" fillColor="#ffcc00" alpha="1.0"/>
+      </textAttrs>
+    </DOMTextRun>
+  </textRuns>
+</DOMInputText>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 23" color="#58fd69">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMInputText fontRenderingMode="standard" name="input8" width="450.95" height="35.6" maxCharacters="16">
+  <matrix>
+    <Matrix tx="484.05" ty="173.15"/>
+  </matrix>
+  <textRuns>
+    <DOMTextRun>
+      <characters/>
+      <textAttrs>
+        <DOMTextAttrs alignment="right" rotation="true" indent="0.0" leftMargin="0.0" lineSpacing="2.0" rightMargin="0.0" size="32.0" bitmapSize="640" face="LCDDot Regular" fillColor="#ffcc00" alpha="1.0"/>
+      </textAttrs>
+    </DOMTextRun>
+  </textRuns>
+</DOMInputText>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 24" color="#bdaf9b">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMInputText fontRenderingMode="standard" name="input7" width="450.95" height="35.6" maxCharacters="16">
+  <matrix>
+    <Matrix tx="484.05" ty="109.15"/>
+  </matrix>
+  <textRuns>
+    <DOMTextRun>
+      <characters/>
+      <textAttrs>
+        <DOMTextAttrs alignment="right" rotation="true" indent="0.0" leftMargin="0.0" lineSpacing="2.0" rightMargin="0.0" size="32.0" bitmapSize="640" face="LCDDot Regular" fillColor="#ffcc00" alpha="1.0"/>
+      </textAttrs>
+    </DOMTextRun>
+  </textRuns>
+</DOMInputText>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 25" color="#9c709e">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMInputText fontRenderingMode="standard" name="input6" width="450.95" height="35.6" maxCharacters="16">
+  <matrix>
+    <Matrix tx="484.05" ty="45.15"/>
+  </matrix>
+  <textRuns>
+    <DOMTextRun>
+      <characters/>
+      <textAttrs>
+        <DOMTextAttrs alignment="right" rotation="true" indent="0.0" leftMargin="0.0" lineSpacing="2.0" rightMargin="0.0" size="32.0" bitmapSize="640" face="LCDDot Regular" fillColor="#ffcc00" alpha="1.0"/>
+      </textAttrs>
+    </DOMTextRun>
+  </textRuns>
+</DOMInputText>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 26" color="#ce457f">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMInputText fontRenderingMode="standard" name="input5" width="450.95" height="35.6" maxCharacters="16">
+  <matrix>
+    <Matrix tx="8.0" ty="301.0"/>
+  </matrix>
+  <textRuns>
+    <DOMTextRun>
+      <characters/>
+      <textAttrs>
+        <DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" lineSpacing="2.0" rightMargin="0.0" size="32.0" bitmapSize="640" face="LCDDot Regular" fillColor="#ffcc00" alpha="1.0"/>
+      </textAttrs>
+    </DOMTextRun>
+  </textRuns>
+</DOMInputText>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 27" color="#266ff5">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMInputText fontRenderingMode="standard" name="input4" width="450.95" height="35.6" maxCharacters="16">
+  <matrix>
+    <Matrix tx="8.0" ty="237.0"/>
+  </matrix>
+  <textRuns>
+    <DOMTextRun>
+      <characters/>
+      <textAttrs>
+        <DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" lineSpacing="2.0" rightMargin="0.0" size="32.0" bitmapSize="640" face="LCDDot Regular" fillColor="#ffcc00" alpha="1.0"/>
+      </textAttrs>
+    </DOMTextRun>
+  </textRuns>
+</DOMInputText>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 28" color="#a0c35e">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMInputText fontRenderingMode="standard" name="input3" width="450.95" height="35.6" maxCharacters="16">
+  <matrix>
+    <Matrix tx="8.0" ty="173.0"/>
+  </matrix>
+  <textRuns>
+    <DOMTextRun>
+      <characters/>
+      <textAttrs>
+        <DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" lineSpacing="2.0" rightMargin="0.0" size="32.0" bitmapSize="640" face="LCDDot Regular" fillColor="#ffcc00" alpha="1.0"/>
+      </textAttrs>
+    </DOMTextRun>
+  </textRuns>
+</DOMInputText>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 29" color="#d7f23b">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMInputText fontRenderingMode="standard" name="input2" width="450.95" height="35.6" maxCharacters="16">
+  <matrix>
+    <Matrix tx="8.0" ty="109.0"/>
+  </matrix>
+  <textRuns>
+    <DOMTextRun>
+      <characters/>
+      <textAttrs>
+        <DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" lineSpacing="2.0" rightMargin="0.0" size="32.0" bitmapSize="640" face="LCDDot Regular" fillColor="#ffcc00" alpha="1.0"/>
+      </textAttrs>
+    </DOMTextRun>
+  </textRuns>
+</DOMInputText>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 30" color="#fc2074">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMInputText fontRenderingMode="standard" name="input1" width="450.95" height="35.6" maxCharacters="16">
+  <matrix>
+    <Matrix tx="8.0" ty="45.0"/>
+  </matrix>
+  <textRuns>
+    <DOMTextRun>
+      <characters/>
+      <textAttrs>
+        <DOMTextAttrs alignment="left" rotation="true" indent="0.0" leftMargin="0.0" lineSpacing="2.0" rightMargin="0.0" size="32.0" bitmapSize="640" face="LCDDot Regular" fillColor="#ffcc00" alpha="1.0"/>
+      </textAttrs>
+    </DOMTextRun>
+  </textRuns>
+</DOMInputText>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 31" color="#f03dcb">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills/>
+                                             <strokes>
+  <StrokeStyle index="1">
+    <SolidStroke weight="5.0" scaleMode="normal">
+      <fill>
+        <SolidColor color="#ffcc00"/>
+      </fill>
+    </SolidStroke>
+  </StrokeStyle>
+</strokes>
+  <edges>
+    <Edge strokeStyle="1" edges="!0 0! 9401 198| 9401 8305"/>
+  </edges>
+</DOMShape>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 32" color="#b0f85a" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 90" centerPoint3DX="58.0" centerPoint3DY="25.0">
+  <matrix>
+    <Matrix tx="0.0" ty="0.0" a="8.104446411132812" d="8.511474609375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

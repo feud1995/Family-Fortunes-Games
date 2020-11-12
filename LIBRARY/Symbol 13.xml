@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 13" lastModified="1605105638">
+  <timeline>
+    <DOMTimeline name="Symbol 13">
+      <layers>
+                    <DOMLayer name="Layer 1" color="#9b42ce">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements>
+                                        <DOMStaticText left="-61.15" fontRenderingMode="standard" width="2560" height="1219" autoExpand="true" isSelectable="false">
+  <matrix>
+    <Matrix tx="545.55" ty="529.7"/>
+  </matrix>
+  <textRuns>
+    <DOMTextRun>
+      <characters>Loading...</characters>
+      <textAttrs>
+        <DOMTextAttrs aliasText="false" rotation="true" size="61.0" bitmapSize="1220" letterSpacing="-3.6" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#bfaaea" face="Tahoma"/>
+      </textAttrs>
+    </DOMTextRun>
+  </textRuns>
+                                             <filters>
+  <DropShadowFilter angle="217.9995302298905" blurX="5" blurY="5" color="#000000" distance="2" inner="true" quality="3" strength="1"/>
+</filters>
+</DOMStaticText>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#9fe08c" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements>
+                                        <DOMStaticText left="-115.6" fontRenderingMode="standard" width="3606" height="1494" autoExpand="true" isSelectable="false">
+  <matrix>
+    <Matrix tx="222.95" ty="100.15" a="1.8893585205078125" d="1.8893585205078125" b="-0.368377685546875" c="0.368377685546875"/>
+  </matrix>
+  <textRuns>
+    <DOMTextRun>
+      <characters>R3DMM</characters>
+      <textAttrs>
+        <DOMTextAttrs aliasText="false" rotation="true" size="96.0" bitmapSize="1920" letterSpacing="-9.9" indent="0" leftMargin="0" lineSpacing="0" rightMargin="0" fillColor="#bfaaea" face="Tahoma Bold"/>
+      </textAttrs>
+    </DOMTextRun>
+  </textRuns>
+                                             <filters>
+  <DropShadowFilter angle="201.99962085383888" blurX="5" blurY="5" color="#000000" distance="5" inner="true" quality="3" strength="1"/>
+</filters>
+</DOMStaticText>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

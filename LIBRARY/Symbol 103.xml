@@ -1,0 +1,81 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 103" lastModified="1605105638" linkageClassName="ffMain_fla.teamIndicator_19" linkageExportForAS="true">
+  <timeline>
+    <DOMTimeline name="Symbol 103">
+      <layers>
+                    <DOMLayer name="Layer 1" color="#a4c39c" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+  <FillStyle index="1">
+    <SolidColor color="#000033"/>
+  </FillStyle>
+  <FillStyle index="2">
+    <SolidColor color="#666666"/>
+  </FillStyle>
+</fills>
+                                             <strokes/>
+  <edges>
+    <Edge fillStyle1="2" edges="!0 0! 1676 500[ 1572 500 1499 427[ 1426 354 1426 250[ 1426 146 1499 73[ 1572 0 1676 0[ 1780 0 1853 73[ 1926 146 1926 250[ 1926 354 1853 427[ 1780 500 1676 500"/>
+    <Edge fillStyle0="2" fillStyle1="1" edges="!1676 500! 1676 425[ 1604 425 1553 375[ 1503 324 1503 253[ 1503 181 1553 130[ 1604 80 1676 80[ 1747 80 1798 130[ 1848 181 1848 253[ 1848 324 1798 375[ 1747 425 1676 425"/>
+    <Edge fillStyle0="0" fillStyle1="2" edges="!1676 425! 500 250[ 500 354 427 427[ 354 500 250 500[ 146 500 73 427[ 0 354 0 250[ 0 146 73 73[ 146 0 250 0[ 354 0 427 73[ 500 146 500 250"/>
+    <Edge fillStyle0="2" fillStyle1="1" edges="!500 250! 375 130[ 425 181 425 253[ 425 324 375 375[ 324 425 253 425[ 181 425 130 375[ 80 324 80 253[ 80 181 130 130[ 181 80 253 80[ 324 80 375 130"/>
+  </edges>
+</DOMShape>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="1" keyMode="9728">
+  <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+  <FillStyle index="1">
+    <SolidColor color="#00ffff"/>
+  </FillStyle>
+  <FillStyle index="2">
+    <SolidColor color="#000033"/>
+  </FillStyle>
+  <FillStyle index="3">
+    <SolidColor color="#666666"/>
+  </FillStyle>
+</fills>
+                                             <strokes/>
+  <edges>
+    <Edge fillStyle1="3" edges="!0 0! 1853 73[ 1926 146 1926 250[ 1926 354 1853 427[ 1780 500 1676 500[ 1572 500 1499 427[ 1426 354 1426 250[ 1426 146 1499 73[ 1572 0 1676 0[ 1780 0 1853 73"/>
+    <Edge fillStyle0="3" fillStyle1="2" edges="!1853 73! 1798 130[ 1848 181 1848 253[ 1848 324 1798 375[ 1747 425 1676 425[ 1604 425 1553 375[ 1503 324 1503 253[ 1503 181 1553 130[ 1604 80 1676 80[ 1747 80 1798 130"/>
+    <Edge fillStyle0="0" fillStyle1="3" edges="!1798 130! 427 427[ 354 500 250 500[ 146 500 73 427[ 0 354 0 250[ 0 146 73 73[ 146 0 250 0[ 354 0 427 73[ 500 146 500 250[ 500 354 427 427"/>
+    <Edge fillStyle0="3" fillStyle1="1" edges="!427 427! 375 130[ 425 181 425 253[ 425 324 375 375[ 324 425 253 425[ 181 425 130 375[ 80 324 80 253[ 80 181 130 130[ 181 80 253 80[ 324 80 375 130"/>
+  </edges>
+</DOMShape>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="2" keyMode="9728">
+  <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+  <FillStyle index="1">
+    <SolidColor color="#00ffff"/>
+  </FillStyle>
+  <FillStyle index="2">
+    <SolidColor color="#000033"/>
+  </FillStyle>
+  <FillStyle index="3">
+    <SolidColor color="#666666"/>
+  </FillStyle>
+</fills>
+                                             <strokes/>
+  <edges>
+    <Edge fillStyle1="3" edges="!0 0! 1926 250[ 1926 354 1853 427[ 1780 500 1676 500[ 1572 500 1499 427[ 1426 354 1426 250[ 1426 146 1499 73[ 1572 0 1676 0[ 1780 0 1853 73[ 1926 146 1926 250"/>
+    <Edge fillStyle0="3" fillStyle1="1" edges="!1926 250! 1848 253[ 1848 324 1798 375[ 1747 425 1676 425[ 1604 425 1553 375[ 1503 324 1503 253[ 1503 181 1553 130[ 1604 80 1676 80[ 1747 80 1798 130[ 1848 181 1848 253"/>
+    <Edge fillStyle0="0" fillStyle1="3" edges="!1848 253! 500 250[ 500 354 427 427[ 354 500 250 500[ 146 500 73 427[ 0 354 0 250[ 0 146 73 73[ 146 0 250 0[ 354 0 427 73[ 500 146 500 250"/>
+    <Edge fillStyle0="3" fillStyle1="2" edges="!500 250! 375 130[ 425 181 425 253[ 425 324 375 375[ 324 425 253 425[ 181 425 130 375[ 80 324 80 253[ 80 181 130 130[ 181 80 253 80[ 324 80 375 130"/>
+  </edges>
+</DOMShape>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

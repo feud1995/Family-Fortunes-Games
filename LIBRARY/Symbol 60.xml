@@ -1,0 +1,2105 @@
+<DOMSymbolItem xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" name="Symbol 60" lastModified="1605105638" linkageClassName="ffMain_fla.bigMoney_7" linkageExportForAS="true">
+  <timeline>
+    <DOMTimeline name="Symbol 60">
+      <layers>
+        <DOMLayer name="Layer 1" color="#49f6e9" layerType="mask" locked="true">
+                         <frames>
+                              <DOMFrame index="0" duration="115" keyMode="9728">
+  <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+  <FillStyle index="1">
+    <RadialGradient focalPointRatio="0">
+      <matrix>
+        <Matrix tx="111.1" ty="-71.85" a="0.0613555908203125" d="0.0613555908203125" b="-0.4671478271484375" c="0.4671478271484375"/>
+      </matrix>
+      <GradientEntry color="#ffc4c4" ratio="0.0"/>
+      <GradientEntry color="#e69866" ratio="1.0"/>
+    </RadialGradient>
+  </FillStyle>
+</fills>
+                                             <strokes/>
+  <edges>
+    <Edge fillStyle1="1" edges="!0 0! 3997 -3071[ 5270 -1413 4998 657[ 4726 2726 3069 3998[ 1411 5271 -658 4999[ -2727 4727 -3999 3070[ -5272 1412 -5000 -657[ -4728 -2727 -3071 -3999[ -1413 -5272 656 -5000[ 2725 -4728 3997 -3071"/>
+  </edges>
+</DOMShape>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#b0dff4" parentLayerIndex="0" locked="true">
+                         <frames>
+                              <DOMFrame index="0" duration="74" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="74" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="-266.9" centerPoint3DY="-132.0">
+  <matrix>
+    <Matrix tx="-569.3" ty="-257.85" a="0.7158966064453125" d="0.7158966064453125" b="0.15240478515625" c="-0.15240478515625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="75" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="-234.55" centerPoint3DY="-127.75">
+  <matrix>
+    <Matrix tx="-536.95" ty="-253.6" a="0.7480926513671875" d="0.7480926513671875" b="0.1424102783203125" c="-0.1424102783203125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="76" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="-202.4" centerPoint3DY="-123.05">
+  <matrix>
+    <Matrix tx="-504.8" ty="-248.9" a="0.7801666259765625" d="0.7801666259765625" b="0.131072998046875" c="-0.131072998046875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="77" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="-170.4" centerPoint3DY="-118.05">
+  <matrix>
+    <Matrix tx="-472.8" ty="-243.9" a="0.812103271484375" d="0.812103271484375" b="0.1184539794921875" c="-0.1184539794921875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="78" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="-138.7" centerPoint3DY="-112.65">
+  <matrix>
+    <Matrix tx="-441.1" ty="-238.5" a="0.8438568115234375" d="0.8438568115234375" b="0.1044769287109375" c="-0.1044769287109375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="79" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="-106.4" centerPoint3DY="-107.55">
+  <matrix>
+    <Matrix tx="-408.8" ty="-233.4" a="0.8750457763671875" d="0.8750457763671875" b="0.09210205078125" c="-0.09210205078125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="80" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="-75.0" centerPoint3DY="-101.5">
+  <matrix>
+    <Matrix tx="-377.4" ty="-227.35" a="0.906341552734375" d="0.906341552734375" b="0.0755615234375" c="-0.0755615234375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="81" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="-43.6" centerPoint3DY="-94.95">
+  <matrix>
+    <Matrix tx="-346.0" ty="-220.8" a="0.9373016357421875" d="0.9373016357421875" b="0.05780029296875" c="-0.05780029296875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="82" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="-12.4" centerPoint3DY="-88.15">
+  <matrix>
+    <Matrix tx="-314.8" ty="-214.0" a="0.967926025390625" d="0.967926025390625" b="0.0386810302734375" c="-0.0386810302734375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="83" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="18.7" centerPoint3DY="-80.85">
+  <matrix>
+    <Matrix tx="-283.7" ty="-206.7" a="0.998138427734375" d="0.998138427734375" b="0.0182952880859375" c="-0.0182952880859375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="84" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="50.25" centerPoint3DY="-74.2">
+  <matrix>
+    <Matrix tx="-252.15" ty="-200.05" a="1.0279388427734375" d="1.0279388427734375" b="1.52587890625E-5" c="-1.52587890625E-5"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="85" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="140.15" centerPoint3DY="-69.0">
+  <matrix>
+    <Matrix tx="-162.25" ty="-194.85" a="0.967529296875" d="0.967529296875" b="-0.0511322021484375" c="0.0511322021484375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="86" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="231.6" centerPoint3DY="-65.15">
+  <matrix>
+    <Matrix tx="-70.8" ty="-191.0" a="0.90478515625" d="0.90478515625" b="-0.0959320068359375" c="0.0959320068359375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="87" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="324.25" centerPoint3DY="-61.8">
+  <matrix>
+    <Matrix tx="21.85" ty="-187.65" a="0.839752197265625" d="0.839752197265625" b="-0.13702392578125" c="0.13702392578125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="88" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="418.85" centerPoint3DY="-60.6">
+  <matrix>
+    <Matrix tx="116.45" ty="-186.45" a="0.7737274169921875" d="0.7737274169921875" b="-0.16864013671875" c="0.16864013671875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="89" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="514.25" centerPoint3DY="-60.35">
+  <matrix>
+    <Matrix tx="211.85" ty="-186.2" a="0.7068939208984375" d="0.7068939208984375" b="-0.1960296630859375" c="0.1960296630859375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="90" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="525.6" centerPoint3DY="-70.3">
+  <matrix>
+    <Matrix tx="223.2" ty="-196.15" a="0.7270355224609375" d="0.7270355224609375" b="-0.15802001953125" c="0.15802001953125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="91" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="537.65" centerPoint3DY="-80.4">
+  <matrix>
+    <Matrix tx="235.25" ty="-206.25" a="0.7457427978515625" d="0.7457427978515625" b="-0.118316650390625" c="0.118316650390625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="92" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="550.35" centerPoint3DY="-90.55">
+  <matrix>
+    <Matrix tx="247.95" ty="-216.4" a="0.7622833251953125" d="0.7622833251953125" b="-0.0770263671875" c="0.0770263671875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="93" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="564.05" centerPoint3DY="-100.8">
+  <matrix>
+    <Matrix tx="261.65" ty="-226.65" a="0.7765045166015625" d="0.7765045166015625" b="-0.034210205078125" c="0.034210205078125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="94" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="578.1" centerPoint3DY="-110.25">
+  <matrix>
+    <Matrix tx="275.7" ty="-236.1" a="0.788299560546875" d="0.788299560546875" b="0.007293701171875" c="-0.007293701171875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="95" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="593.45" centerPoint3DY="-120.25">
+  <matrix>
+    <Matrix tx="291.05" ty="-246.1" a="0.79736328125" d="0.79736328125" b="0.052642822265625" c="-0.052642822265625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="96" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="609.6" centerPoint3DY="-130.05">
+  <matrix>
+    <Matrix tx="307.2" ty="-255.9" a="0.8038330078125" d="0.8038330078125" b="0.099029541015625" c="-0.099029541015625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="97" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="-326.5" centerPoint3DY="-118.9">
+  <matrix>
+    <Matrix tx="-628.9" ty="-244.75" a="0.807586669921875" d="0.807586669921875" b="0.14630126953125" c="-0.14630126953125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="98" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="-304.35" centerPoint3DY="-116.15">
+  <matrix>
+    <Matrix tx="-606.75" ty="-242.0" a="0.820831298828125" d="0.820831298828125" b="0.13818359375" c="-0.13818359375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="99" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="-281.65" centerPoint3DY="-113.95">
+  <matrix>
+    <Matrix tx="-584.05" ty="-239.8" a="0.833587646484375" d="0.833587646484375" b="0.1324310302734375" c="-0.1324310302734375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="100" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="-259.55" centerPoint3DY="-110.95">
+  <matrix>
+    <Matrix tx="-561.95" ty="-236.8" a="0.84674072265625" d="0.84674072265625" b="0.1237030029296875" c="-0.1237030029296875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="101" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="-236.9" centerPoint3DY="-108.55">
+  <matrix>
+    <Matrix tx="-539.3" ty="-234.4" a="0.8594207763671875" d="0.8594207763671875" b="0.11749267578125" c="-0.11749267578125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="102" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="-214.25" centerPoint3DY="-106.1">
+  <matrix>
+    <Matrix tx="-516.65" ty="-231.95" a="0.87200927734375" d="0.87200927734375" b="0.111053466796875" c="-0.111053466796875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="103" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="-192.25" centerPoint3DY="-102.9">
+  <matrix>
+    <Matrix tx="-494.65" ty="-228.75" a="0.88494873046875" d="0.88494873046875" b="0.1014862060546875" c="-0.1014862060546875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="104" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="-169.65" centerPoint3DY="-100.3">
+  <matrix>
+    <Matrix tx="-472.05" ty="-226.15" a="0.897430419921875" d="0.897430419921875" b="0.0946044921875" c="-0.0946044921875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="105" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="-147.65" centerPoint3DY="-96.95">
+  <matrix>
+    <Matrix tx="-450.05" ty="-222.8" a="0.910186767578125" d="0.910186767578125" b="0.0844573974609375" c="-0.0844573974609375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="106" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="-125.15" centerPoint3DY="-94.25">
+  <matrix>
+    <Matrix tx="-427.55" ty="-220.1" a="0.92254638671875" d="0.92254638671875" b="0.07708740234375" c="-0.07708740234375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="107" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="-103.25" centerPoint3DY="-90.65">
+  <matrix>
+    <Matrix tx="-405.65" ty="-216.5" a="0.9351043701171875" d="0.9351043701171875" b="0.0663909912109375" c="-0.0663909912109375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="108" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="-80.75" centerPoint3DY="-87.85">
+  <matrix>
+    <Matrix tx="-383.15" ty="-213.7" a="0.9473419189453125" d="0.9473419189453125" b="0.0584869384765625" c="-0.0584869384765625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="109" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="-58.35" centerPoint3DY="-84.8">
+  <matrix>
+    <Matrix tx="-360.75" ty="-210.65" a="0.95947265625" d="0.95947265625" b="0.0504150390625" c="-0.0504150390625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="110" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="-36.4" centerPoint3DY="-81.05">
+  <matrix>
+    <Matrix tx="-338.8" ty="-206.9" a="0.971710205078125" d="0.971710205078125" b="0.0389251708984375" c="-0.0389251708984375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="111" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="-14.05" centerPoint3DY="-77.95">
+  <matrix>
+    <Matrix tx="-316.45" ty="-203.8" a="0.98370361328125" d="0.98370361328125" b="0.03033447265625" c="-0.03033447265625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="112" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="7.8" centerPoint3DY="-73.95">
+  <matrix>
+    <Matrix tx="-294.6" ty="-199.8" a="0.9956817626953125" d="0.9956817626953125" b="0.0182952880859375" c="-0.0182952880859375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="113" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="30.2" centerPoint3DY="-70.75">
+  <matrix>
+    <Matrix tx="-272.2" ty="-196.6" a="1.007476806640625" d="1.007476806640625" b="0.0092315673828125" c="-0.0092315673828125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="114" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 59" centerPoint3DX="52.65" centerPoint3DY="-67.4">
+  <matrix>
+    <Matrix tx="-249.75" ty="-193.25" a="1.0192108154296875" d="1.0192108154296875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#c894fc" parentLayerIndex="0" locked="true">
+                         <frames>
+                              <DOMFrame index="0" duration="44" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="44" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="0.5" centerPoint3DY="400.0">
+  <matrix>
+    <Matrix tx="-65.65" ty="352.15"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="45" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="0.4" centerPoint3DY="365.5">
+  <matrix>
+    <Matrix tx="-65.75" ty="317.65" a="1.0017852783203125" d="1.0017852783203125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="46" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="0.25" centerPoint3DY="330.9">
+  <matrix>
+    <Matrix tx="-65.9" ty="283.05" a="1.0035858154296875" d="1.0035858154296875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="47" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="0.15" centerPoint3DY="296.4">
+  <matrix>
+    <Matrix tx="-66.0" ty="248.55" a="1.0053863525390625" d="1.0053863525390625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="48" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="0.05" centerPoint3DY="261.9">
+  <matrix>
+    <Matrix tx="-66.1" ty="214.05" a="1.0071868896484375" d="1.0071868896484375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="49" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="-0.1" centerPoint3DY="227.3">
+  <matrix>
+    <Matrix tx="-66.25" ty="179.45" a="1.00897216796875" d="1.00897216796875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="50" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="-0.2" centerPoint3DY="192.8">
+  <matrix>
+    <Matrix tx="-66.35" ty="144.95" a="1.010772705078125" d="1.010772705078125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="51" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="-0.35" centerPoint3DY="158.25">
+  <matrix>
+    <Matrix tx="-66.5" ty="110.4" a="1.0125732421875" d="1.0125732421875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="52" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="-0.45" centerPoint3DY="123.7">
+  <matrix>
+    <Matrix tx="-66.6" ty="75.85" a="1.014373779296875" d="1.014373779296875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="53" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="-0.55" centerPoint3DY="89.2">
+  <matrix>
+    <Matrix tx="-66.7" ty="41.35" a="1.0161590576171875" d="1.0161590576171875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="54" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="-0.7" centerPoint3DY="54.6">
+  <matrix>
+    <Matrix tx="-66.85" ty="6.75" a="1.0179595947265625" d="1.0179595947265625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="55" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="-0.8" centerPoint3DY="20.05">
+  <matrix>
+    <Matrix tx="-66.95" ty="-27.8" a="1.0197601318359375" d="1.0197601318359375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="56" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="-0.9" centerPoint3DY="-14.45">
+  <matrix>
+    <Matrix tx="-67.05" ty="-62.3" a="1.0215606689453125" d="1.0215606689453125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="57" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="-1.05" centerPoint3DY="-49.05">
+  <matrix>
+    <Matrix tx="-67.2" ty="-96.9" a="1.023345947265625" d="1.023345947265625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="58" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="-1.15" centerPoint3DY="-42.1">
+  <matrix>
+    <Matrix tx="-67.3" ty="-89.95" a="1.025146484375" d="1.025146484375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="59" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="-1.25" centerPoint3DY="-35.25">
+  <matrix>
+    <Matrix tx="-67.4" ty="-83.1" a="1.026947021484375" d="1.026947021484375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="60" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="-1.4" centerPoint3DY="-28.35">
+  <matrix>
+    <Matrix tx="-67.55" ty="-76.2" a="1.02874755859375" d="1.02874755859375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="61" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="-1.5" centerPoint3DY="-21.45">
+  <matrix>
+    <Matrix tx="-67.65" ty="-69.3" a="1.0305328369140625" d="1.0305328369140625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="62" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="-1.6" centerPoint3DY="-28.0">
+  <matrix>
+    <Matrix tx="-67.75" ty="-75.85" a="1.0323333740234375" d="1.0323333740234375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="63" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="-1.75" centerPoint3DY="-34.6">
+  <matrix>
+    <Matrix tx="-67.9" ty="-82.45" a="1.0341339111328125" d="1.0341339111328125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="64" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="-1.85" centerPoint3DY="-41.1">
+  <matrix>
+    <Matrix tx="-68.0" ty="-88.95" a="1.0359344482421875" d="1.0359344482421875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="65" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="-2.0" centerPoint3DY="-47.65">
+  <matrix>
+    <Matrix tx="-68.15" ty="-95.5" a="1.0377197265625" d="1.0377197265625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="66" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="-2.1" centerPoint3DY="-49.85">
+  <matrix>
+    <Matrix tx="-68.25" ty="-97.7" a="1.039520263671875" d="1.039520263671875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="67" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="-2.2" centerPoint3DY="-52.0">
+  <matrix>
+    <Matrix tx="-68.35" ty="-99.85" a="1.04132080078125" d="1.04132080078125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="68" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="-2.35" centerPoint3DY="-52.05">
+  <matrix>
+    <Matrix tx="-68.5" ty="-99.9" a="1.043121337890625" d="1.043121337890625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="69" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="-2.45" centerPoint3DY="-52.15">
+  <matrix>
+    <Matrix tx="-68.6" ty="-100.0" a="1.0449066162109375" d="1.0449066162109375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="70" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="27.9" centerPoint3DY="-54.25">
+  <matrix>
+    <Matrix tx="-38.25" ty="-102.1" a="0.9992523193359375" d="0.9992523193359375" b="-0.0261688232421875" c="0.0261688232421875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="71" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="58.45" centerPoint3DY="-56.4">
+  <matrix>
+    <Matrix tx="-7.7" ty="-104.25" a="0.95294189453125" d="0.95294189453125" b="-0.0499420166015625" c="0.0499420166015625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="72" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="89.2" centerPoint3DY="-58.75">
+  <matrix>
+    <Matrix tx="23.05" ty="-106.6" a="0.9061279296875" d="0.9061279296875" b="-0.071319580078125" c="0.071319580078125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="73" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="120.05" centerPoint3DY="-61.25">
+  <matrix>
+    <Matrix tx="53.9" ty="-109.1" a="0.8588714599609375" d="0.8588714599609375" b="-0.09027099609375" c="0.09027099609375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="74" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="151.1" centerPoint3DY="-63.9">
+  <matrix>
+    <Matrix tx="84.95" ty="-111.75" a="0.811279296875" d="0.811279296875" b="-0.1068115234375" c="0.1068115234375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="75" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="182.25" centerPoint3DY="-66.7">
+  <matrix>
+    <Matrix tx="116.1" ty="-114.55" a="0.763427734375" d="0.763427734375" b="-0.12091064453125" c="0.12091064453125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="76" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="213.5" centerPoint3DY="-69.6">
+  <matrix>
+    <Matrix tx="147.35" ty="-117.45" a="0.7154541015625" d="0.7154541015625" b="-0.132598876953125" c="0.132598876953125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="77" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="244.85" centerPoint3DY="-72.65">
+  <matrix>
+    <Matrix tx="178.7" ty="-120.5" a="0.6674041748046875" d="0.6674041748046875" b="-0.1418609619140625" c="0.1418609619140625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="78" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="276.35" centerPoint3DY="-75.95">
+  <matrix>
+    <Matrix tx="210.2" ty="-123.8" a="0.6193695068359375" d="0.6193695068359375" b="-0.1486968994140625" c="0.1486968994140625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="79" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="308.05" centerPoint3DY="-79.3">
+  <matrix>
+    <Matrix tx="241.9" ty="-127.15" a="0.571502685546875" d="0.571502685546875" b="-0.15313720703125" c="0.15313720703125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="80" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="307.2" centerPoint3DY="-81.8">
+  <matrix>
+    <Matrix tx="241.05" ty="-129.65" a="0.6014251708984375" d="0.6014251708984375" b="-0.127838134765625" c="0.127838134765625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="81" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="306.75" centerPoint3DY="-84.35">
+  <matrix>
+    <Matrix tx="240.6" ty="-132.2" a="0.63018798828125" d="0.63018798828125" b="-0.0998077392578125" c="0.0998077392578125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="82" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="306.35" centerPoint3DY="-86.95">
+  <matrix>
+    <Matrix tx="240.2" ty="-134.8" a="0.6576385498046875" d="0.6576385498046875" b="-0.069122314453125" c="0.069122314453125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="83" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="306.2" centerPoint3DY="-89.8">
+  <matrix>
+    <Matrix tx="240.05" ty="-137.65" a="0.683502197265625" d="0.683502197265625" b="-0.03582763671875" c="0.03582763671875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="84" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="306.35" centerPoint3DY="-92.65">
+  <matrix>
+    <Matrix tx="240.2" ty="-140.5" a="0.7076568603515625" d="0.7076568603515625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="85" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="306.75" centerPoint3DY="-95.6">
+  <matrix>
+    <Matrix tx="240.6" ty="-143.45" a="0.7298431396484375" d="0.7298431396484375" b="0.0382537841796875" c="-0.0382537841796875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="86" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="307.25" centerPoint3DY="-98.55">
+  <matrix>
+    <Matrix tx="241.1" ty="-146.4" a="0.7499237060546875" d="0.7499237060546875" b="0.0788116455078125" c="-0.0788116455078125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="87" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="308.2" centerPoint3DY="-101.55">
+  <matrix>
+    <Matrix tx="242.05" ty="-149.4" a="0.7676849365234375" d="0.7676849365234375" b="0.12158203125" c="-0.12158203125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="88" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="309.3" centerPoint3DY="-104.7">
+  <matrix>
+    <Matrix tx="243.15" ty="-152.55" a="0.7829742431640625" d="0.7829742431640625" b="0.1664276123046875" c="-0.1664276123046875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="89" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="-258.3" centerPoint3DY="-108.3">
+  <matrix>
+    <Matrix tx="-324.45" ty="-156.15" a="0.79559326171875" d="0.79559326171875" b="0.2131805419921875" c="-0.2131805419921875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="90" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="-205.8" centerPoint3DY="-95.85">
+  <matrix>
+    <Matrix tx="-271.95" ty="-143.7" a="0.8283538818359375" d="0.8283538818359375" b="0.1760711669921875" c="-0.1760711669921875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="91" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="-153.4" centerPoint3DY="-83.05">
+  <matrix>
+    <Matrix tx="-219.55" ty="-130.9" a="0.859344482421875" d="0.859344482421875" b="0.1361083984375" c="-0.1361083984375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="92" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="-100.95" centerPoint3DY="-70.05">
+  <matrix>
+    <Matrix tx="-167.1" ty="-117.9" a="0.88836669921875" d="0.88836669921875" b="0.0933685302734375" c="-0.0933685302734375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="93" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="-48.5" centerPoint3DY="-56.7">
+  <matrix>
+    <Matrix tx="-114.65" ty="-104.55" a="0.9152069091796875" d="0.9152069091796875" b="0.0479583740234375" c="-0.0479583740234375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="94" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="4.0" centerPoint3DY="-43.1">
+  <matrix>
+    <Matrix tx="-62.15" ty="-90.95" a="0.939666748046875" d="0.939666748046875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="95" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="59.7" centerPoint3DY="-50.6">
+  <matrix>
+    <Matrix tx="-6.45" ty="-98.45" a="0.9383697509765625" d="0.9383697509765625" b="-0.0491790771484375" c="0.0491790771484375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="96" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="115.6" centerPoint3DY="-57.95">
+  <matrix>
+    <Matrix tx="49.45" ty="-105.8" a="0.9345245361328125" d="0.9345245361328125" b="-0.0982208251953125" c="0.0982208251953125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="97" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="171.65" centerPoint3DY="-65.2">
+  <matrix>
+    <Matrix tx="105.5" ty="-113.05" a="0.9281005859375" d="0.9281005859375" b="-0.1469879150390625" c="0.1469879150390625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="98" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="227.95" centerPoint3DY="-72.4">
+  <matrix>
+    <Matrix tx="161.8" ty="-120.25" a="0.91912841796875" d="0.91912841796875" b="-0.19537353515625" c="0.19537353515625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="99" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 56" centerPoint3DX="284.45" centerPoint3DY="-79.5">
+  <matrix>
+    <Matrix tx="218.3" ty="-127.35" a="0.90765380859375" d="0.90765380859375" b="-0.2432098388671875" c="0.2432098388671875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+        <DOMLayer name="Layer 4" color="#894dbe" layerType="mask" locked="true">
+                         <frames>
+                              <DOMFrame index="0" duration="115" keyMode="9728">
+  <elements>
+                                        <DOMShape isFloating="true">
+                                             <fills>
+  <FillStyle index="1">
+    <SolidColor color="#ff4fca"/>
+  </FillStyle>
+</fills>
+                                             <strokes/>
+  <edges>
+    <Edge fillStyle1="1" edges="!0 0! -8000 -4000| 8000 -4000| 8000 4000| -8000 4000| -8000 -4000"/>
+  </edges>
+</DOMShape>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 5" color="#50c37b">
+                         <frames>
+                              <DOMFrame index="0" duration="44" keyMode="9728">
+  <elements/>
+</DOMFrame>
+<DOMFrame index="44" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="0.45" centerPoint3DY="460.45">
+  <matrix>
+    <Matrix tx="-252.4" ty="207.6"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="45" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="0.4" centerPoint3DY="425.15">
+  <matrix>
+    <Matrix tx="-252.45" ty="172.3" a="0.9999847412109375" d="0.9999847412109375" b="-2.593994140625E-4" c="2.593994140625E-4"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="46" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="0.3" centerPoint3DY="389.85">
+  <matrix>
+    <Matrix tx="-252.55" ty="137.0" a="0.9999847412109375" d="0.9999847412109375" b="-5.18798828125E-4" c="5.18798828125E-4"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="47" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="0.25" centerPoint3DY="354.5">
+  <matrix>
+    <Matrix tx="-252.6" ty="101.65" a="0.9999847412109375" d="0.9999847412109375" b="-7.781982421875E-4" c="7.781982421875E-4"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="48" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-0.65" centerPoint3DY="320.05">
+  <matrix>
+    <Matrix tx="-253.5" ty="67.2" a="0.9999847412109375" d="0.9999847412109375" b="-0.004364013671875" c="0.004364013671875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="49" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-0.75" centerPoint3DY="284.7">
+  <matrix>
+    <Matrix tx="-253.6" ty="31.85" a="0.999969482421875" d="0.999969482421875" b="-0.0046234130859375" c="0.0046234130859375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="50" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-0.8" centerPoint3DY="249.4">
+  <matrix>
+    <Matrix tx="-253.65" ty="-3.45" a="0.999969482421875" d="0.999969482421875" b="-0.0048828125" c="0.0048828125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="51" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-0.85" centerPoint3DY="214.1">
+  <matrix>
+    <Matrix tx="-253.7" ty="-38.75" a="0.999969482421875" d="0.999969482421875" b="-0.0051422119140625" c="0.0051422119140625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="52" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-1.75" centerPoint3DY="179.6">
+  <matrix>
+    <Matrix tx="-254.6" ty="-73.25" a="0.999969482421875" d="0.999969482421875" b="-0.00872802734375" c="0.00872802734375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="53" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-1.85" centerPoint3DY="144.3">
+  <matrix>
+    <Matrix tx="-254.7" ty="-108.55" a="0.9999237060546875" d="0.9999237060546875" b="-0.0089874267578125" c="0.0089874267578125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="54" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-1.9" centerPoint3DY="109.05">
+  <matrix>
+    <Matrix tx="-254.75" ty="-143.8" a="0.9999237060546875" d="0.9999237060546875" b="-0.009246826171875" c="0.009246826171875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="55" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-1.95" centerPoint3DY="73.7">
+  <matrix>
+    <Matrix tx="-254.8" ty="-179.15" a="0.9999237060546875" d="0.9999237060546875" b="-0.0095062255859375" c="0.0095062255859375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="56" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-2.85" centerPoint3DY="39.2">
+  <matrix>
+    <Matrix tx="-255.7" ty="-213.65" a="0.999908447265625" d="0.999908447265625" b="-0.013092041015625" c="0.013092041015625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="57" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-2.9" centerPoint3DY="3.8">
+  <matrix>
+    <Matrix tx="-255.75" ty="-249.05" a="0.9998626708984375" d="0.9998626708984375" b="-0.0133514404296875" c="0.0133514404296875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="58" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-2.9" centerPoint3DY="11.9">
+  <matrix>
+    <Matrix tx="-255.75" ty="-240.95" a="0.9998626708984375" d="0.9998626708984375" b="-0.01361083984375" c="0.01361083984375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="59" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-3.0" centerPoint3DY="19.95">
+  <matrix>
+    <Matrix tx="-255.85" ty="-232.9" a="0.999847412109375" d="0.999847412109375" b="-0.0138702392578125" c="0.0138702392578125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="60" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-3.95" centerPoint3DY="28.85">
+  <matrix>
+    <Matrix tx="-256.8" ty="-224.0" a="0.999847412109375" d="0.999847412109375" b="-0.0174560546875" c="0.0174560546875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="61" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-3.95" centerPoint3DY="36.95">
+  <matrix>
+    <Matrix tx="-256.8" ty="-215.9" a="0.9997711181640625" d="0.9997711181640625" b="-0.0177154541015625" c="0.0177154541015625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="62" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-4.0" centerPoint3DY="29.1">
+  <matrix>
+    <Matrix tx="-256.85" ty="-223.75" a="0.9997711181640625" d="0.9997711181640625" b="-0.017974853515625" c="0.017974853515625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="63" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-4.1" centerPoint3DY="21.15">
+  <matrix>
+    <Matrix tx="-256.95" ty="-231.7" a="0.9997711181640625" d="0.9997711181640625" b="-0.0182342529296875" c="0.0182342529296875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="64" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-5.0" centerPoint3DY="14.05">
+  <matrix>
+    <Matrix tx="-257.85" ty="-238.8" a="0.999755859375" d="0.999755859375" b="-0.021820068359375" c="0.021820068359375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="65" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-5.0" centerPoint3DY="6.1">
+  <matrix>
+    <Matrix tx="-257.85" ty="-246.75" a="0.9996795654296875" d="0.9996795654296875" b="-0.0220794677734375" c="0.0220794677734375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="66" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-5.05" centerPoint3DY="9.7">
+  <matrix>
+    <Matrix tx="-257.9" ty="-243.15" a="0.999664306640625" d="0.999664306640625" b="-0.0223388671875" c="0.0223388671875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="67" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-5.15" centerPoint3DY="13.25">
+  <matrix>
+    <Matrix tx="-258.0" ty="-239.6" a="0.999664306640625" d="0.999664306640625" b="-0.0225982666015625" c="0.0225982666015625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="68" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-6.05" centerPoint3DY="10.7">
+  <matrix>
+    <Matrix tx="-258.9" ty="-242.15" a="0.999664306640625" d="0.999664306640625" b="-0.02618408203125" c="0.02618408203125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="69" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-6.1" centerPoint3DY="7.2">
+  <matrix>
+    <Matrix tx="-258.95" ty="-245.65" a="0.9995574951171875" d="0.9995574951171875" b="-0.0264434814453125" c="0.0264434814453125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="70" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-29.45" centerPoint3DY="34.65">
+  <matrix>
+    <Matrix tx="-282.3" ty="-218.2" a="0.9914703369140625" d="0.9914703369140625" b="-0.1270599365234375" c="0.1270599365234375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="71" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-50.55" centerPoint3DY="65.35">
+  <matrix>
+    <Matrix tx="-303.4" ty="-187.5" a="0.9725189208984375" d="0.9725189208984375" b="-0.2296295166015625" c="0.2296295166015625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="72" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-68.65" centerPoint3DY="97.75">
+  <matrix>
+    <Matrix tx="-321.5" ty="-155.1" a="0.944091796875" d="0.944091796875" b="-0.3296966552734375" c="0.3296966552734375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="73" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-82.3" centerPoint3DY="131.3">
+  <matrix>
+    <Matrix tx="-335.15" ty="-121.55" a="0.9046630859375" d="0.9046630859375" b="-0.4231719970703125" c="0.4231719970703125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="74" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-93.05" centerPoint3DY="166.95">
+  <matrix>
+    <Matrix tx="-345.9" ty="-85.9" a="0.8553924560546875" d="0.8553924560546875" b="-0.5151824951171875" c="0.5151824951171875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="75" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-99.9" centerPoint3DY="202.4">
+  <matrix>
+    <Matrix tx="-352.75" ty="-50.45" a="0.7988128662109375" d="0.7988128662109375" b="-0.5989532470703125" c="0.5989532470703125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="76" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-103.25" centerPoint3DY="239.5">
+  <matrix>
+    <Matrix tx="-356.1" ty="-13.35" a="0.7318572998046875" d="0.7318572998046875" b="-0.6790618896484375" c="0.6790618896484375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="77" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-102.75" centerPoint3DY="275.55">
+  <matrix>
+    <Matrix tx="-355.6" ty="22.7" a="0.6594390869140625" d="0.6594390869140625" b="-0.7495880126953125" c="0.7495880126953125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="78" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-98.5" centerPoint3DY="312.55">
+  <matrix>
+    <Matrix tx="-351.35" ty="59.7" a="0.577606201171875" d="0.577606201171875" b="-0.814422607421875" c="0.814422607421875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="79" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-90.4" centerPoint3DY="348.9">
+  <matrix>
+    <Matrix tx="-343.25" ty="96.05" a="0.489501953125" d="0.489501953125" b="-0.870391845703125" c="0.870391845703125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="80" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-78.95" centerPoint3DY="383.15">
+  <matrix>
+    <Matrix tx="-331.8" ty="130.3" a="0.39910888671875" d="0.39910888671875" b="-0.91558837890625" c="0.91558837890625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="81" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-63.65" centerPoint3DY="417.1">
+  <matrix>
+    <Matrix tx="-316.5" ty="164.25" a="0.3014984130859375" d="0.3014984130859375" b="-0.9524688720703125" c="0.9524688720703125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="82" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-45.55" centerPoint3DY="448.25">
+  <matrix>
+    <Matrix tx="-298.4" ty="195.4" a="0.203857421875" d="0.203857421875" b="-0.97833251953125" c="0.97833251953125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="83" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-23.65" centerPoint3DY="478.35">
+  <matrix>
+    <Matrix tx="-276.5" ty="225.5" a="0.1008453369140625" d="0.1008453369140625" b="-0.99456787109375" c="0.99456787109375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="84" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="0.45" centerPoint3DY="505.15">
+  <matrix>
+    <Matrix tx="-252.4" ty="252.3" a="0.0" d="0.0" b="-1.0" c="1.0"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="85" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-24.6" centerPoint3DY="477.35">
+  <matrix>
+    <Matrix tx="-277.45" ty="224.5" a="0.104522705078125" d="0.104522705078125" b="-0.9945220947265625" c="0.9945220947265625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="86" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-46.55" centerPoint3DY="447.15">
+  <matrix>
+    <Matrix tx="-299.4" ty="194.3" a="0.207916259765625" d="0.207916259765625" b="-0.9781494140625" c="0.9781494140625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="87" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-65.2" centerPoint3DY="414.8">
+  <matrix>
+    <Matrix tx="-318.05" ty="161.95" a="0.30902099609375" d="0.30902099609375" b="-0.9510498046875" c="0.9510498046875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="88" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-80.4" centerPoint3DY="380.7">
+  <matrix>
+    <Matrix tx="-333.25" ty="127.85" a="0.40673828125" d="0.40673828125" b="-0.913543701171875" c="0.913543701171875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="89" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-91.9" centerPoint3DY="345.2">
+  <matrix>
+    <Matrix tx="-344.75" ty="92.35" a="0.5" d="0.5" b="-0.86602783203125" c="0.86602783203125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="90" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-99.65" centerPoint3DY="308.6">
+  <matrix>
+    <Matrix tx="-352.5" ty="55.75" a="0.5877838134765625" d="0.5877838134765625" b="-0.80902099609375" c="0.80902099609375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="91" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-103.55" centerPoint3DY="271.45">
+  <matrix>
+    <Matrix tx="-356.4" ty="18.6" a="0.66912841796875" d="0.66912841796875" b="-0.7431488037109375" c="0.7431488037109375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="92" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-103.55" centerPoint3DY="234.15">
+  <matrix>
+    <Matrix tx="-356.4" ty="-18.7" a="0.7431488037109375" d="0.7431488037109375" b="-0.66912841796875" c="0.66912841796875"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="93" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-99.7" centerPoint3DY="196.95">
+  <matrix>
+    <Matrix tx="-352.55" ty="-55.9" a="0.80902099609375" d="0.80902099609375" b="-0.5877838134765625" c="0.5877838134765625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="94" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-91.9" centerPoint3DY="160.45">
+  <matrix>
+    <Matrix tx="-344.75" ty="-92.4" a="0.86602783203125" d="0.86602783203125" b="-0.5" c="0.5"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="95" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-80.4" centerPoint3DY="124.9">
+  <matrix>
+    <Matrix tx="-333.25" ty="-127.95" a="0.913543701171875" d="0.913543701171875" b="-0.40673828125" c="0.40673828125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="96" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-65.2" centerPoint3DY="90.8">
+  <matrix>
+    <Matrix tx="-318.05" ty="-162.05" a="0.9510498046875" d="0.9510498046875" b="-0.30902099609375" c="0.30902099609375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="97" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-46.55" centerPoint3DY="58.45">
+  <matrix>
+    <Matrix tx="-299.4" ty="-194.4" a="0.9781494140625" d="0.9781494140625" b="-0.207916259765625" c="0.207916259765625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="98" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-24.55" centerPoint3DY="28.2">
+  <matrix>
+    <Matrix tx="-277.4" ty="-224.65" a="0.9945220947265625" d="0.9945220947265625" b="-0.104522705078125" c="0.104522705078125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="99" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="0.45" centerPoint3DY="0.45">
+  <matrix>
+    <Matrix tx="-252.4" ty="-252.4"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="100" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-23.7" centerPoint3DY="27.35">
+  <matrix>
+    <Matrix tx="-276.55" ty="-225.5" a="0.9945220947265625" d="0.9945220947265625" b="-0.101226806640625" c="0.101226806640625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="101" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-45.7" centerPoint3DY="57.6">
+  <matrix>
+    <Matrix tx="-298.55" ty="-195.25" a="0.9781494140625" d="0.9781494140625" b="-0.2046661376953125" c="0.2046661376953125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="102" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-64.4" centerPoint3DY="90.0">
+  <matrix>
+    <Matrix tx="-317.25" ty="-162.85" a="0.9510650634765625" d="0.9510650634765625" b="-0.3058624267578125" c="0.3058624267578125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="103" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-79.65" centerPoint3DY="124.15">
+  <matrix>
+    <Matrix tx="-332.5" ty="-128.7" a="0.9135589599609375" d="0.9135589599609375" b="-0.4037017822265625" c="0.4037017822265625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="104" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-91.2" centerPoint3DY="159.75">
+  <matrix>
+    <Matrix tx="-344.05" ty="-93.1" a="0.8660430908203125" d="0.8660430908203125" b="-0.49713134765625" c="0.49713134765625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="105" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-99.0" centerPoint3DY="196.3">
+  <matrix>
+    <Matrix tx="-351.85" ty="-56.55" a="0.8090362548828125" d="0.8090362548828125" b="-0.5850982666015625" c="0.5850982666015625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="106" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-103.0" centerPoint3DY="233.45">
+  <matrix>
+    <Matrix tx="-355.85" ty="-19.4" a="0.7431793212890625" d="0.7431793212890625" b="-0.666656494140625" c="0.666656494140625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="107" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-103.05" centerPoint3DY="270.85">
+  <matrix>
+    <Matrix tx="-355.9" ty="18.0" a="0.669158935546875" d="0.669158935546875" b="-0.7409210205078125" c="0.7409210205078125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="108" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-99.15" centerPoint3DY="308.15">
+  <matrix>
+    <Matrix tx="-352.0" ty="55.3" a="0.5878143310546875" d="0.5878143310546875" b="-0.80706787109375" c="0.80706787109375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="109" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-91.45" centerPoint3DY="344.7">
+  <matrix>
+    <Matrix tx="-344.3" ty="91.85" a="0.500030517578125" d="0.500030517578125" b="-0.8643646240234375" c="0.8643646240234375"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="110" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-80.05" centerPoint3DY="380.35">
+  <matrix>
+    <Matrix tx="-332.9" ty="127.5" a="0.4067840576171875" d="0.4067840576171875" b="-0.9121856689453125" c="0.9121856689453125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="111" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-64.9" centerPoint3DY="414.55">
+  <matrix>
+    <Matrix tx="-317.75" ty="161.7" a="0.309051513671875" d="0.309051513671875" b="-0.9500274658203125" c="0.9500274658203125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="112" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-46.4" centerPoint3DY="446.95">
+  <matrix>
+    <Matrix tx="-299.25" ty="194.1" a="0.20794677734375" d="0.20794677734375" b="-0.977447509765625" c="0.977447509765625"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="113" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="-24.45" centerPoint3DY="477.3">
+  <matrix>
+    <Matrix tx="-277.3" ty="224.45" a="0.1045684814453125" d="0.1045684814453125" b="-0.994171142578125" c="0.994171142578125"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+<DOMFrame index="114" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" centerPoint3DX="0.45" centerPoint3DY="505.15">
+  <matrix>
+    <Matrix tx="-252.4" ty="252.3" a="0.0" d="0.0" b="-1.0" c="1.0"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 6" color="#60decc" parentLayerIndex="3" locked="true">
+                         <frames>
+                              <DOMFrame index="0" duration="115" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 51" symbolType="graphic" loop="loop">
+  <matrix>
+    <Matrix tx="-400.0" ty="-200.0"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
